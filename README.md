@@ -11,7 +11,7 @@
 
 - 파이썬을 학습하고 활용가능한 기술을 통해 업무자동화 및 데이터 수집/분석 시각화를 목표한다
 
-<br/>
+<br>
 
 **📩 이메일**
 
@@ -25,9 +25,9 @@
 **준비하기**
 --
 ---
-📦learn<br/>
- ┗ 📂[python](https://github.com/devyoon91/study_thebigdata/tree/main/learn/python)<br/>
- ┃ ┣ 📜[00.python_learn_started.md](https://github.com/devyoon91/study_thebigdata/blob/main/learn/python/00.python_learn_started.md)<br/>
- ┃ ┣ 📜[01.install_python.md](https://github.com/devyoon91/study_thebigdata/blob/main/learn/python/01.install_python.md)<br/>
- ┃ ┣ 📜[02.install_vscode.md](https://github.com/devyoon91/study_thebigdata/blob/main/learn/python/02.install_vscode.md)<br/>
- ┃ ┗ 📜[03.install_anaconda.md](https://github.com/devyoon91/study_thebigdata/blob/main/learn/python/03.install_anaconda.md)<br/>
+📦learn<br>
+ ┗ 📂[python](https://github.com/devyoon91/study_thebigdata/tree/main/learn/python)<br>
+ ┃ ┣ 📜[00.python_learn_started.md](https://github.com/devyoon91/study_thebigdata/blob/main/learn/python/00.python_learn_started.md)<br>
+ ┃ ┣ 📜[01.install_python.md](https://github.com/devyoon91/study_thebigdata/blob/main/learn/python/01.install_python.md)<br>
+ ┃ ┣ 📜[02.install_vscode.md](https://github.com/devyoon91/study_thebigdata/blob/main/learn/python/02.install_vscode.md)<br>
+ ┃ ┗ 📜[03.install_anaconda.md](https://github.com/devyoon91/study_thebigdata/blob/main/learn/python/03.install_anaconda.md)<br>
